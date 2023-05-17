@@ -1,4 +1,3 @@
-import 'package:app_museo_1/helpers/colors.dart';
 import 'package:app_museo_1/models/models.dart';
 import 'package:app_museo_1/windgets/list_rooms.dart';
 import 'package:flutter/cupertino.dart';
